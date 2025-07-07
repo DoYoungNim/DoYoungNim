@@ -7,9 +7,13 @@
 - 💬 Ask me about Feature Engineering/Optimization/Modeling.
 
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoYoungNim&layout=compact)
+
 <!--
 **DoYoungNim/DoYoungNim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
