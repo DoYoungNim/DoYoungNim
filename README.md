@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ML/DL/RL.
+- 🌱 I’m currently learning AI knowledges.
+- 👯 I’m looking to collaborate on Wonderful Companies and Labs.
+- 🤔 I’m looking for help with difficulty on using AI tech.
+- 💬 Ask me about Feature Engineering/Optimization/Modeling.
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **DoYoungNim/DoYoungNim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
