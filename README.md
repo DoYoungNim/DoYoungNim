@@ -9,11 +9,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [행렬 미분 스터디 2주차 내용 정리](https://velog.io/@dyung2/%ED%96%89%EB%A0%AC-%EB%AF%B8%EB%B6%84-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)
 - [행렬미분 스터디 1주차 내용 정리](https://velog.io/@dyung2/%ED%96%89%EB%A0%AC%EB%AF%B8%EB%B6%84-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)
 - [Ontology 기반 AI Agent란?](https://velog.io/@dyung2/Ontology-%EA%B8%B0%EB%B0%98-AI-Agent%EB%9E%80)
 - [동적 프로그래밍에 대해 알아보자.](https://velog.io/@dyung2/%EB%8F%99%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 - [키워드 정리로 배우는 강화 학습](https://velog.io/@dyung2/%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EA%B0%95%ED%99%94-%ED%95%99%EC%8A%B5)
-- [From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review / 다중에이전트 강화 학습 / 종합 리뷰 논문 리뷰하기](https://velog.io/@dyung2/From-LLM-Reasoning-to-Autonomous-AI-Agents-A-Comprehensive-Review-%EB%8B%A4%EC%A4%91%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%95%ED%99%94-%ED%95%99%EC%8A%B5-%EC%A2%85%ED%95%A9-%EB%A6%AC%EB%B7%B0-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 
