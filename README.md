@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on ML/DL/RL.
 - 🌱 I’m currently learning AI knowledges.
@@ -6,6 +6,8 @@
 - 🤔 I’m looking for help with difficulty on using AI tech.
 - 💬 Ask me about Feature Engineering/Optimization/Modeling.
 
+
+<br>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,6 +18,8 @@
 - [키워드 정리로 배우는 강화 학습](https://velog.io/@dyung2/%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EA%B0%95%ED%99%94-%ED%95%99%EC%8A%B5)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoYoungNim&layout=compact)
 
