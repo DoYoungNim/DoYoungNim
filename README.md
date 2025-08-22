@@ -11,7 +11,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [기술면접 대비 CS/ML 지식 정리](https://velog.io/@dyung2/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-CSML-%EC%A7%80%EC%8B%9D-%EC%A0%95%EB%A6%AC-6xqm5bjf)
+- [기술면접 대비 CS/ML 지식 정리](https://velog.io/@dyung2/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-CSML-%EC%A7%80%EC%8B%9D-%EC%A0%95%EB%A6%AC-rueo4fdb)
 - [행렬미분 스터디 6주차 정리](https://velog.io/@dyung2/%ED%96%89%EB%A0%AC%EB%AF%B8%EB%B6%84-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%A3%BC%EC%B0%A8-%EC%A0%95%EB%A6%AC)
 - [Efficient AI Study Offline Meetup 2025](https://velog.io/@dyung2/Efficient-AI-Study-Offline-Meetup-2025)
 - [행렬미분 스터디 3·4주차 내용 정리](https://velog.io/@dyung2/%ED%96%89%EB%A0%AC%EB%AF%B8%EB%B6%84-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%A3%BC%EC%B0%A8-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)
